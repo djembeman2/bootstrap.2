@@ -1,0 +1,24 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+img {
+  width: 100%;
+}
+
+main {
+  color: rebeccapurple;
+  background-color: darkorange;
+}
+
+h2 {
+  color: darkred;
+  background-color: palegreen;
+}
+
+p{
+  color: darkblue;
+  background-color: purple;
+}
+
